@@ -1,7 +1,7 @@
 ## README File ##
 
 1. create repository in github first
-..* do not initialize the new repository with README, license, or gitignore files.
+* do not initialize the new repository with README, license, or gitignore files.
 
 2. echo "# README_file" >> README.md
 3. git init
