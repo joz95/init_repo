@@ -1,5 +1,6 @@
 ## README File ##
 
+## Create repository
 1. create repository in github first
 * do not initialize the new repository with README, license, or gitignore files.
 
@@ -9,3 +10,8 @@
 5. git commit -m "your commit message"
 6. git remote add origin git@github.com:<user>/<repo_name>.git
 7. git push -u origin master
+
+
+## Authentication
+* check this URL for importing SSH key
+https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
